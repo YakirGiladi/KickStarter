@@ -1,0 +1,52 @@
+.btn-success {
+    color: #fff;
+    background-color: #cec558;
+    border-color: #cec558;
+    background-image: -webkit-linear-gradient(top, #cec558 0%, #419641 100%);
+    background-image: -webkit-gradient(linear, left top, left bottom, from(#cec558), to(#419641));
+    background-image: linear-gradient(to bottom, #cec558 0%, #419641 100%);
+    background-image: -o-linear-gradient(top, #cec558 0%, #419641 100%);
+    filter: progid:DXImageTransform.Microsoft.gradient(startColorstr='#ff5cb85c', endColorstr='#ff419641', GradientType=0);
+    filter: progid:DXImageTransform.Microsoft.gradient(enabled = false);
+}
+
+.btn-primary {
+    color: #fff;
+    background-color: #cec558;
+    border-color: #cec558;
+    background-image: -webkit-linear-gradient(top, #cec558 0%, #419641 100%);
+    background-image: -webkit-gradient(linear, left top, left bottom, from(#cec558), to(#419641));
+    background-image: linear-gradient(to bottom, #cec558 0%, #419641 100%);
+    background-image: -o-linear-gradient(top, #cec558 0%, #419641 100%);
+    filter: progid:DXImageTransform.Microsoft.gradient(startColorstr='#ff5cb85c', endColorstr='#ff419641', GradientType=0);
+    filter: progid:DXImageTransform.Microsoft.gradient(enabled = false);
+}
+
+.btn-info {
+    color: #fff;
+    background-color: #cec558;
+    border-color: #cec558;
+    background-image: -webkit-linear-gradient(top, #cec558 0%, #419641 100%);
+    background-image: -webkit-gradient(linear, left top, left bottom, from(#cec558), to(#419641));
+    background-image: linear-gradient(to bottom, #cec558 0%, #419641 100%);
+    background-image: -o-linear-gradient(top, #cec558 0%, #419641 100%);
+}
+
+.searchBT:hover {
+  background-color: #9c9cd8;
+    border-color: #9c9cd8;
+/*     margin-left: -2px; */
+    border-radius: 4px;
+}
+
+.open > .dropdown-toggle.btn-success {
+  color: #fff;
+    background-color: #419641;
+    border-color: #419641;
+    background-image: -webkit-linear-gradient(top, #419641 0%, #cec558 100%);
+    background-image: -webkit-gradient(linear, left top, left bottom, from(#419641), to(#cec558));
+    background-image: linear-gradient(to bottom, #419641 0%, #cec558 100%);
+    background-image: -o-linear-gradient(top, #419641 0%, #cec558 100%);
+    filter: progid:DXImageTransform.Microsoft.gradient(startColorstr='#ff5cb85c', endColorstr='#ff419641', GradientType=0);
+    filter: progid:DXImageTransform.Microsoft.gradient(enabled = false);
+}
